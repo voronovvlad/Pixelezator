@@ -18,7 +18,7 @@ It allows you to pixelate images, apply different filters and download results.
 2. apply maven wrapper: mvn -N io.takari:maven:wrapper
 3. build: ./mvnw clean package
 4. run server: ./mvnw tomcat7:run
-5. open website: http://localhost:8080/pixelizator
+5. open website: http://localhost:8080/Pixelizator
 ```
 
 ### Specification:
