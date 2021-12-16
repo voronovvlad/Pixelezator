@@ -22,8 +22,8 @@ It allows you to pixelate images, apply different filters and download results.
 ```
 
 ### Specification:
-![view game](https://raw.githubusercontent.com/voronovvlad/Pixelizator/main/src/main/resources/pix01.png)
-![view game](https://raw.githubusercontent.com/voronovvlad/Pixelizator/main/src/main/resources/pix02.png)
-![view game](https://raw.githubusercontent.com/voronovvlad/Pixelizator/main/src/main/resources/pix03.png)
-![view game](https://raw.githubusercontent.com/voronovvlad/Pixelizator/main/src/main/resources/pix04.png)
-![view game](https://raw.githubusercontent.com/voronovvlad/Pixelizator/main/src/main/resources/pix05.png)
+![view game](https://raw.githubusercontent.com/voronovvlad/Pixelezator/main/src/main/resources/pix01.png)
+![view game](https://raw.githubusercontent.com/voronovvlad/Pixelezator/main/src/main/resources/pix02.png)
+![view game](https://raw.githubusercontent.com/voronovvlad/Pixelezator/main/src/main/resources/pix03.png)
+![view game](https://raw.githubusercontent.com/voronovvlad/Pixelezator/main/src/main/resources/pix04.png)
+![view game](https://raw.githubusercontent.com/voronovvlad/Pixelezator/main/src/main/resources/pix05.png)
